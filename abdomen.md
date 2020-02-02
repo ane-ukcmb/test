@@ -2,11 +2,16 @@ Abdominalna kirurgija - SOPI
 
 Holecistektomija je pogosta abdominalna operacija.
 
-teste
+test
+|ewerw| werwerw |
+|-werwerwe-|werewr--wer|
+|  erwerw| werewrw |
+
 
 set
 es
 ts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4NzcyOTldfQ==
+eyJoaXN0b3J5IjpbLTIwMjE3Mjg0ODgsLTIwNDY4NzcyOTldfQ
+==
 -->
